@@ -1,6 +1,6 @@
 resource "google_storage_bucket" "gcs_bucket" {
 
-name = "Testterraformactions39393939939"
+name = "Testterraformactions3939393993933333"
 location = var.region
 
 }
