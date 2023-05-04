@@ -1,4 +1,4 @@
 resource "google_storage_bucket" "static-site" {
-  name          = "image-store.com"
+  name          = "teste_bucket000303040404"
 
 }
